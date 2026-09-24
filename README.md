@@ -3,8 +3,15 @@
 Desarrollador Full-Stack enfocado en crear soluciones eficientes y escalables. 
 
 <div align="center">
-    <p>Número de visitantes</p>
-    <img src="https://profile-counter.glitch.me/josecarlos0112/count.svg" alt="Número de visitantes" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/josecarlos0112/josecarlos0112/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/josecarlos0112/josecarlos0112/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/josecarlos0112/josecarlos0112/output/github-snake-dark.svg" />
+  </picture>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=josecarlos0112&label=Visitas&color=blueviolet&style=for-the-badge" alt="Número de visitantes" />
 </div>
 
 ---
