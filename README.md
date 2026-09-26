@@ -1,5 +1,11 @@
-<!-- ═══════════════ HEADER ═══════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6e40c9,100:00d4ff&height=200&section=header&text=Jos%C3%A9%20Carlos&fontSize=62&fontColor=ffffff&fontAlignY=38" />
+<!-- ═══════════════ HEADER · SNAKE (no tocar) ═══════════════ -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/josecarlos0112/josecarlos0112/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/josecarlos0112/josecarlos0112/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/josecarlos0112/josecarlos0112/output/github-snake-dark.svg" />
+  </picture>
+</div>
 
 <div align="center">
 
@@ -104,17 +110,6 @@ const jose = {
 </div>
 
 ---
-
-<!-- ═══════════════ SNAKE (no tocar) ═══════════════ -->
-### 🐍 Comiéndome mis contribuciones
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/josecarlos0112/josecarlos0112/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/josecarlos0112/josecarlos0112/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/josecarlos0112/josecarlos0112/output/github-snake-dark.svg" />
-  </picture>
-</div>
 
 ---
 
